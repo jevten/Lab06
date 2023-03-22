@@ -1,3 +1,4 @@
+#Jevan Tenaglia
 def encode(password):
     result =""
     for i in range (len(password)):
